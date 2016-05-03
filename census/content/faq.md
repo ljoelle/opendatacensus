@@ -31,8 +31,8 @@ peer-reviewed periodically by a team of 60+ Country Editors.
 
 ### What is the Open Data Index?
 
-Annual snapshots of the data collected by the Open Data Census are made by the
-[Open Knowledge Foundation](http://okfn.org) and published as the [Open Data
+Annual snapshots of the data collected by the Open Data Census are made by 
+[Open Knowledge International](http://okfn.org) and published as the [Open Data
 Index](http://index.okfn.org) to showcase the results.
 
 ### What's the current state of the Open Data Census?
@@ -57,17 +57,17 @@ The purpose of the Census is to provide an accurate and reliable assessment of
 the state of open (government) data around the world and to present this
 information in a way that is easy to understand and use.
 
-The Open Data Census was initiated by the [Open Knowledge
-Foundation](http://okfn.org). It is maintained by the Foundation and its [Open
+The Open Data Census was initiated by [Open Knowledge
+International](http://okfn.org). It is maintained by OKI and its [Open
 Government Data working group](http://opengovernmentdata.org/) with
 contributions from many members of the wider community.
 
 ### What is the history of the Open Data Census?
 
-The Census was created by the [Open Knowledge Foundation](http://okfn.org) in
+The Census was created by [Open Knowledge International](http://okfn.org) in
 2012, and provides a clear measure of available open data - not what is claimed,
 but what data is actually available and how open it is. The Census is designed
-by open data experts, including the [Open Knowledge Foundation Open Government
+by open data experts, including the [Open Knowledge Open Government
 Working Group](http://opengovernmentdata.org/), and undergoes a process of peer
 review and evidence checking to ensure high quality results. An annual
 announcement of the results (the Index) creates a focus for debate and review.
@@ -131,7 +131,7 @@ See the full Census discussion list archive [here](http://lists.okfn.org/mailman
 ### How reliable is the Open Data Census?
 
 The information in the Census is collected by open data experts around the world
-including the [Open Knowledge Foundation Open Government Working
+including the [Open Knowledge Open Government Working
 Group](http://opengovernmentdata.org/). The Census data undergoes a process of
 peer review and evidence checking to ensure high quality results.
 
@@ -290,7 +290,7 @@ A targetted search or working with others is most fun and helpful. You could ask
 on the [Open Data Census discussion
 list](http://lists.okfn.org/mailman/listinfo/open-data-census) whether there's a
 country or area you could help with. Get together with friends, colleagues, your
-local open data community or [Open Knowledge Foundation local
+local open data community or [Open Knowledge local
 group](http://okfn.org/local) and dig into data on a given topic or for a given
 country together.
 
@@ -367,5 +367,5 @@ site or any other open data tech, join [the Open Knowledge Foundation
 Labs](http://okfnlabs.org) where you can meet others and collaborate on open
 source code and other tech projects.
 
-You can also sign up to the [Open Knowledge Foundation](http://okfn.org) list to
+You can also sign up to the [Open Knowledge International](http://okfn.org) list to
 stay in touch.
